@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Every good hacker needs some dev tools, here are some good options."
 
 #Terminator install
