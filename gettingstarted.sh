@@ -4,6 +4,10 @@
 sudo apt update
 sudo apt upgrade
 
+#Snap install
+echo "Installing Snap"
+sudo apt-get install snapd
+
 #Git install
 echo "Installing git"
 sudo apt install -y git
