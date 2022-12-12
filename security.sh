@@ -20,6 +20,17 @@ echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=
 sudo apt update
 sudo apt install brave-browser
 
-#Install Anoncrypt
-echo "Installing Anoncrypt"
+#Install Anon Surf
+echo "Installing Anon Surf"
+cd Desktop
+mkdir Anonsurf && cd Anonsurf
+git clone https://github.com/Und3rf10w/kali-anonsurf.git
+sudo ./installer.sh
+cd ..
+cd ..
+cd ..
+ 
+echo "Tools are installed"
+sleep
+echo "Stopping script"
 
