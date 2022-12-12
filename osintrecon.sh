@@ -31,3 +31,6 @@ cd ..
 #Instaloader is a tool to scrape information from Instagram
 sudo pip3 install instaloader
 
+#Shodan-CLI
+#Shodan is a search engine for everything connected to the internet
+echo "Installing Shodan-CLI
