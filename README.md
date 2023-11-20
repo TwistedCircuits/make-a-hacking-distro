@@ -8,4 +8,4 @@ OSINT tools installed Sherlock, Twint(has some problems), OSINTgram, Spiderfoot,
 Recon tools installed NMAP, SQLMap, OpenVAS.
 Exploitation tools installed Burpsuite, Metasploit Framework.
 
-(Sorry this script is a work in progress. Please forgive me for not having it done yet.)
+(Sorry this script is a work in progress. Please forgive me for not having it done yet. I will try and finish it this year if possible.)
